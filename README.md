@@ -1,4 +1,4 @@
-# 🛒 Zepto Sales Data Analysis Project 📊
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/98517321-9380-45ee-8ff4-ccb74c8cf3f1" /># 🛒 Zepto Sales Data Analysis Project 📊
 
 > A comprehensive end-to-end data analysis project exploring customer behavior, delivery efficiency, and sales performance in the quick-commerce industry.
 
@@ -141,7 +141,9 @@ A pie chart illustrating revenue contribution of product categories such as:
 ## ⏱ Delivery Time Distribution
 
 A histogram visualizing how quickly orders reach customers.
-![Uploading image.png…]()
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/caaa95d6-43ec-4ffe-b998-0901db2690d1" />
+
+
 
 
 
