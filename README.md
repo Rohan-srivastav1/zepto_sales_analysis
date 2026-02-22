@@ -1,6 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/98517321-9380-45ee-8ff4-ccb74c8cf3f1" /># 🛒 Zepto Sales Data Analysis Project 📊
-
-> A comprehensive end-to-end data analysis project exploring customer behavior, delivery efficiency, and sales performance in the quick-commerce industry.
+ comprehensive end-to-end data analysis project exploring customer behavior, delivery efficiency, and sales performance in the quick-commerce industry.
 
 ---
 
